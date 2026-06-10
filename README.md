@@ -1,52 +1,56 @@
-# AI301 Open Source Contribution Log
+# Contribution #1: Add n8n integration recipe for Agent Guard API
 
-## Student Info
-
-Name: Bhoomika Gupta  
-Course: AI301 Open Source Capstone  
-Phase Status: Phase I Complete  
+**Contribution Number:** 1
+**Student:** Bhoomika Gupta
+**Issue:** InnerWarden/innerwarden#67
+**Status:** Phase I Complete
 
 ---
 
-## Phase I: Issue Selection
+## Why I Chose This Issue
 
-### Chosen Issue
+I chose this issue because it is well-defined, documentation-focused, and directly connected to my interests in AI agents, LLM safety, and guardrail-style validation systems. The issue asks for an n8n integration recipe that shows how Agent Guard API endpoints can be used to check security context and validate commands before an automation runs.
 
-Issue: https://github.com/InnerWarden/innerwarden/issues/67
+This felt like a strong first contribution because the issue clearly states the expected file to create, the endpoints to document, and the example workflow to include. It does not require deep Rust knowledge, but still gives me a chance to learn how open-source projects document AI safety and automation integrations.
 
-Repository: InnerWarden/innerwarden
+---
 
-Fork: https://github.com/BhoomikaGuptaa/innerwarden
+## Understanding the Issue
 
-Issue Title: Add n8n integration recipe for Agent Guard API
+[To be filled in during Phase II]
 
-### Problem Summary
+---
 
-This issue asks for documentation that explains how to integrate n8n workflows with InnerWarden's Agent Guard API. Agent Guard exposes endpoints that allow AI agents and automation workflows to check security context and validate commands before execution, but the project currently does not have an n8n integration recipe. Adding this guide will help users connect n8n automations to Agent Guard so risky actions can be checked before they run.
+## Reproduction Process
 
-### Why I Chose This Issue
+[To be filled in during Phase II]
 
-I chose this issue because it is clearly scoped, documentation-focused, and labeled as a good first issue. It also matches my interests in AI agents, LLM safety, guardrails, and policy-driven validation systems.
+---
 
-This issue is a good fit for me because:
-1. It does not require deep Rust knowledge.
-2. The issue clearly states what file needs to be created.
-3. The work is focused on documentation and workflow configuration.
-4. It connects directly to my background in AI safety, LLM evaluation, and agentic systems.
+## Solution Approach
 
-### Issue Selection Checklist
+[To be filled in during Phase II]
 
-- [x] I understand the problem.
-- [x] The scope fits 3–4 weeks of work.
-- [x] It matches my skills and research interests.
-- [x] The issue is open and not assigned.
-- [x] There are no branches or pull requests already solving it.
-- [x] The issue has clear acceptance criteria.
+---
 
-### Current Status
+## Testing Strategy
 
-Phase I Complete
+[To be filled in during Phase III]
 
-### Community Engagement
+---
 
-I commented on the GitHub issue to introduce myself and express interest in working on it.
+## Implementation Notes
+
+[To be filled in during Phase III]
+
+---
+
+## Pull Request
+
+[To be filled in during Phase IV]
+
+---
+
+## Learnings & Reflections
+
+[To be filled in after completion]
